@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Hello, this is a simple note taking app that is very helpful for forms and organizing the different topics learned.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
