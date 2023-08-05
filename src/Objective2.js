@@ -7,7 +7,7 @@ const StyledDiv = styled.div`
 display : flex;
 justify-content : center;
 align-items : center;
-height : 90vh;
+height : 120vh;
 color : lightseagreen;
 background-image: linear-gradient(to right, white 0%, lightseagreen 100%);
 `
