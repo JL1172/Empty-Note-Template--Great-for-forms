@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 Hello, this is a simple note taking app that is very helpful for forms and organizing forms.
-Bootstrap, reacstrap, and styled components are already install on the dependencies, all you need to do is git clone and npm install. 
+Bootstrap, reacstrap, yup, and styled components are already install on the dependencies, all you need to do is git clone and npm install. 
 If for whatever reason you get an error when downloading, which you shouldn't, but stuff happens, use : 
 rm -rf package-lock.json.
 
