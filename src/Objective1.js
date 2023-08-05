@@ -13,7 +13,7 @@ background-image: linear-gradient(to right, white 0%, lightseagreen 100%);
 `
 const WorkingDiv = styled.div`
 border : 2px solid whitesmoke;
-height : 60vh;
+height : fit-content;
 width : 60vw;
 background-color : whitesmoke;
 border-radius : 10px;
